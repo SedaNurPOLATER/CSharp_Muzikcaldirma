@@ -1,2 +1,2 @@
-# M-zik-ald-rma
+# Muzikcaldirma
 Konsol Ekranında Müzik Çaldırma 
